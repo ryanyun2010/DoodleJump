@@ -183,3 +183,4 @@ function drawGameOver(){
     text("Score: "+ score, 250,250);
     text("Press Space to Restart",250,350)
 }
+// Doodle Jump!
